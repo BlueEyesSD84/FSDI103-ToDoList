@@ -15,3 +15,13 @@ h1{
     margin: 1px;
     border: 2px solid black;
 }
+.button{
+    background-color: #4CAF50; /* Green */
+    border: 1px solid blue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
