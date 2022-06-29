@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: aquamarine;
+    border: 2px solid red;
+    padding: 20px;
+}
+
+.container{
+    background-color: lightblue;
+    height: 90vh;
+    padding: 20px;
+    margin: 1px;
+    border: 2px solid black;
+}
